@@ -1,0 +1,8 @@
+#Goal
+float64[] coordinates
+---
+#Result
+bool success 
+---
+#Feedback
+float64 error_percentage
