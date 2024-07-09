@@ -41,9 +41,6 @@ Welcome to the ROS2 Robotics Projects Repository! This repository contains a col
 - Simple programs demonstrating the usage of basic ROS2 concepts such as publisher, subscriber, server, service, action, and client interfaces.
 
 
-## Contributing
-
-Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## Acknowledgments
 
